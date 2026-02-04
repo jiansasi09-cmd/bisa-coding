@@ -1,6 +1,9 @@
 Belajar Codingan:
 -mulai dari html
 *isi
+-heading
+-body
+-navbar
 *tombol
 -kemudian css
 -dan juga javascript
