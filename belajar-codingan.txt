@@ -1,9 +1,13 @@
 Belajar Codingan:
 -mulai dari html
 *isi
--judul
--content
+-heading
+-body
+-navbar
 *tombol
+-edit
+-lihat
+*
 -kemudian css
 *warna
 *ukuran
