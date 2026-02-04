@@ -1,0 +1,5 @@
+Belajar Codingan:
+-mulai dari html
+-kemudian css
+-dan juga javascript
+-serta git dan github
